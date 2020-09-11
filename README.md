@@ -1,11 +1,12 @@
 <p align="center">
+ <samp>
   <br>
     Hey! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://vicswu.ca">Victor</a></b>.
     <br>I'm a Computer Science Student @ uWaterloo.<br>
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
-
+ </samp>
 </p>
-
+<samp>
 <h3> Contact me with the options below! </h3>
 
 <p align="center">
@@ -14,5 +15,7 @@
 <a href="https://www.instagram.com/vic.s.wu/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-vic.s.wu-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:v27wu@uwaterloo.ca"><img alt="Email" src="https://img.shields.io/badge/Email-v27wu@uwaterloo.ca-blue?style=flat-square&logo=gmail"></a>
 </p>
+
+</samp> 
 
 ⭐️ From Victor
