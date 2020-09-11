@@ -9,7 +9,12 @@
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
 
 </p>
-[![Linkedin Badge](https://img.shields.io/badge/-Raúl%20Piracés%20Alastuey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ra%C3%BAl-pirac%C3%A9s-alastuey-137569a5/)](https://www.linkedin.com/in/ra%C3%BAl-pirac%C3%A9s-alastuey-137569a5/)
-[![Mail Badge](https://img.shields.io/badge/-raul@piraces.dev-8B89CC?style=flat-square&logo=Protonmail&logoColor=white&link=mailto:raul@piraces.dev)](mailto:raul@piraces.dev)
+<h3> 🤝🏻 Connect with Me </h3>
 
+<p align="center">
+<a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+</p>
 ⭐️ From [Victor](https://github.com/vicswu)
