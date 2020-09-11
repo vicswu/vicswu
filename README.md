@@ -3,7 +3,7 @@
   <br>
     Hey! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://vicswu.ca">Victor</a></b>.
     <br>I'm a Computer Science Student @ uWaterloo.<br>
-    <iframe src="https://giphy.com/embed/7XsgQ0fmpLM8HJjbk2" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a       href="https://giphy.com/gifs/SportsManias-emoji-sportsmanias-7XsgQ0fmpLM8HJjbk2">via GIPHY</a></p>
+    <img src="https://media.giphy.com/media/7XsgQ0fmpLM8HJjbk2/source.gif" width="200"/>
  </samp>
 </p>
 <samp>
