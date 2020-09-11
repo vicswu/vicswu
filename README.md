@@ -3,7 +3,7 @@
   <br>
     Hey! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://vicswu.ca">Victor</a></b>.
     <br>I'm a Computer Science Student @ uWaterloo.<br>
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
+  <img src="https://user-images.githubusercontent.com/59456972/92951817-01418c00-f42d-11ea-9887-ee93d43a6ff0.png" width="200"/>
  </samp>
 </p>
 <samp>
