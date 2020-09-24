@@ -3,12 +3,12 @@
   <br>
     Hey! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://vicswu.ca">Victor</a></b>.
     <br>Currently Studying Computer Science @ uWaterloo.<br>
-    <br>Looking for Winter 2021 Internship</br>
+    <br>Looking for Winter 2021 Internship!</br>
     <img src="https://media.giphy.com/media/7XsgQ0fmpLM8HJjbk2/source.gif" width="200"/>
  </samp>
 </p>
 <samp>
-<h3> Contact me with the options below! </h3>
+<h3> Contact me with any of the options below! </h3>
 
 <p align="center">
 <a href="http://vicswu.ca/"><img alt="Website" src="https://img.shields.io/badge/Website-www.vicswu.ca-blue?style=flat-square&logo=google-chrome"></a>
@@ -19,4 +19,4 @@
 
 </samp> 
 
-⭐️ From Victor
+⭐️   From Victor
