@@ -3,6 +3,7 @@
   <br>
     Hey! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://vicswu.ca">Victor</a></b>.
     <br>Currently Studying Computer Science @ uWaterloo.<br>
+    <br>Looking for Fall 2021 Intenship!<br>
     <img src="https://media.giphy.com/media/7XsgQ0fmpLM8HJjbk2/source.gif" width="200"/>
  </samp>
 </p>
