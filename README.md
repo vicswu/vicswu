@@ -2,7 +2,7 @@
  <samp>
   <br>
     Hey! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://vicswu.tech">Victor</a></b>.
-    <br>Software Engineer @ CertiK.<br>
+    <br>Software Engineer @ CertiK.
     <br>Computer Science Alumni @ uWaterloo.<br>
     <img src="https://media.giphy.com/media/7XsgQ0fmpLM8HJjbk2/source.gif" width="200"/>
  </samp>
